@@ -1,4 +1,4 @@
 ﻿using AdventOfCode;
 
-var day = new AdventOfCode.Day13.PartTwo();
+var day = new AdventOfCode.Day17.PartTwo();
 day.Run();
